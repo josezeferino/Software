@@ -1,0 +1,12 @@
+debug/logar_form.o
+debug/main.o
+debug/main_form.o
+debug/officials_form.o
+debug/sales_form.o
+debug/stock_form.o
+debug/qrc_arq_recursos.o
+debug/moc_logar_form.o
+debug/moc_main_form.o
+debug/moc_officials_form.o
+debug/moc_sales_form.o
+debug/moc_stock_form.o

@@ -1,0 +1,12 @@
+release/logar_form.o
+release/main.o
+release/main_form.o
+release/officials_form.o
+release/sales_form.o
+release/stock_form.o
+release/qrc_arq_recursos.o
+release/moc_logar_form.o
+release/moc_main_form.o
+release/moc_officials_form.o
+release/moc_sales_form.o
+release/moc_stock_form.o
